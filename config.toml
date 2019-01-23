@@ -1,4 +1,4 @@
-baseURL = "http://bavgruppe.com/"
+baseURL = "http://www.bavgruppe.com.s3-website.us-east-2.amazonaws.com"
 languageCode = "en-us"
 title = "Bavarian Auto Gruppe"
 theme = "timer-hugo"
