@@ -54,6 +54,8 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "SUSPENSION UPGRADES"
         [[params.banner.flipText]]
+            title   = "BRAKE UPGRADES"
+        [[params.banner.flipText]]
             title   = "FENDER ROLLING"
         [[params.banner.flipText]]
             title   = "CUSTOM FABRICATION"
@@ -68,14 +70,14 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        title   = "SCHEDULE AN APPOINTMENT"
+        content = ""
+        btnText = "Contact"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
-        enable  = true
+        enable  = false
         title   = "Latest Works"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
@@ -84,5 +86,3 @@ theme = "timer-hugo"
         enable  = true
         title   = "SOME OF OUR FEATURES WORKS"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
-
-    

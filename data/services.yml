@@ -1,24 +1,25 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
-image   : images/team.jpg
+title   : WHAT WE DO
+subtitle: Our factory-trained technicians are equipped with the latest diganostics equipment to service your vehicle's every need.
+image   : images/racecar_on_lift.jpg
 serviceItem :
-  - icon  : ion-ios-paper-outline
-    title : BRANDING
+  - icon  : ion-wrench
+    title : RACE PREPARATION
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Our extensive racing experience leaves us well-equipped to prep any car, from daily driver to dedicated race car
+      , for a regular season of road racing
 
-  - icon  : ion-ios-pint-outline
-    title : DESIGN
+  - icon  : ion-android-send
+    title : POWER MODIFICATIONS
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      From aftermarket superchargers to turbochargers to engine swaps, we have done it all
 
-  - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+  - icon  : ion-ios-flame
+    title : FABRICATION
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Needs filler text
 
-  - icon  : ion-ios-paper-outline
-    title : THEMEING
+  - icon  : ion-android-car
+    title : OE REPAIR
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We also perform factory recommended maintenance on your BMW or Porsche

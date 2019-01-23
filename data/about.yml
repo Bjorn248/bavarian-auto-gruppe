@@ -1,11 +1,20 @@
 enable  : true
-title   : Why We are Different
+title   : What sets us apart
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  #1 Gainesville BMW Repair & Porsche Repair Service & Parts In Gainesville, FL
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  For some, a BMW or Porsche is more than just a car. It is an experience in engineering, design, and passion. We at Bavarian Auto Gruppe embrace this idea. 
+  <br>
+  <br>
+  Located in Gainesville, FL, we are independently owned and operated. Our factory-trained technicians take the highest care of each car that comes through.
+  <br>
+  <br>
+  We believe in timely, quality service at a fair price. From performance upgrades and race preperation, to routine maintenance, we'll take great care of your vehicle.
+  <br>
+  <br>
+  Whether it is a vintage 2002, a late model 3 series, or the latest M5, our goal will always be to ensure the long term dependable ownership of your BMW. We also sell performance Porsche & BMW parts
+image   : images/about/shop2.jpg
 aboutItem:
   - title : Why Choose Us
     description: > 

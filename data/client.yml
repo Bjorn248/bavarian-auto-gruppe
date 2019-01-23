@@ -1,14 +1,13 @@
 enable  : true
-title   : OUR HAPPY CLINETS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+title   : SHOP CARS
+subtitle: A few examples of cars we have helped build
 clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
+  - image : images/clients/supercharged_330.jpg
+  - image : images/clients/shop_e30.jpg
+  - image : images/clients/shop_e36_328.jpg
+  - image : images/clients/shop_e36_race_car.jpg
+  - image : images/clients/shop_m5.jpg
+  - image : images/clients/shop_rabbit.jpg
+  - image : images/clients/e36_m3.jpg
+  - image : images/clients/shop_330ci.jpg
+  - image : images/clients/supercharged_318ti.jpg
