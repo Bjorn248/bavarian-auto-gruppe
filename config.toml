@@ -46,19 +46,19 @@ theme = "timer-hugo"
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "ROUTINE MAINTENANCE"
+            title   = "MAINTENANCE"
         [[params.banner.flipText]]
             title   = "OEM REPAIR"
         [[params.banner.flipText]]
             title   = "FORCED INDUCTION"
         [[params.banner.flipText]]
-            title   = "SUSPENSION UPGRADES"
+            title   = "SUSPENSION"
         [[params.banner.flipText]]
-            title   = "BRAKE UPGRADES"
+            title   = "BRAKES"
         [[params.banner.flipText]]
             title   = "FENDER ROLLING"
         [[params.banner.flipText]]
-            title   = "CUSTOM FABRICATION"
+            title   = "FABRICATION"
 
     # Homepage About Section
     [params.about]
